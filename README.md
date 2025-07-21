@@ -22,3 +22,6 @@ go run main.go -op=add -n1=10 -n2=5<br>
 go built main.go<br>
 ./main -op=sub -n1=8 -n2=3<br>
 #OutPut: Result: 5.00<br>
+
+# What is a Unit Test?
+A unit test checks the correctness of a small piece of code — usually a single function. It helps catch bugs early and ensures code reliability during changes.
