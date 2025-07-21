@@ -24,4 +24,5 @@ go built main.go<br>
 #OutPut: Result: 5.00<br>
 
 # What is a Unit Test?
-A unit test checks the correctness of a small piece of code — usually a single function. It helps catch bugs early and ensures code reliability during changes.
+A unit test checks the correctness of a small piece of code — usually a single function. It helps catch bugs early and ensures code reliability during changes.<br>
+Adding unit tests in Go (Golang) means writing test functions to verify that your code behaves as expected. These tests are typically written in a separate file and use Go’s built-in testing package.
